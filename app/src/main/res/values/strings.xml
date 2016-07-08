@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name = "button_label" >Grade</string>
+    <string name = "instructions">Please answer all of the questions below:</string>
+
+    <!-- question #1 -->
+    <string name="question1">1) In what year was the United States formed?</string>
+    <string name="ques1ans1">1776</string>
+    <string name="ques1ans2">1779</string>
+    <string name="ques1ans3">1876</string>
+    <string name="ques1ans4">1900</string>
+
+    <!-- question #2 -->
+    <string name="question2">2) Which of these is NOT a branch of the US government?</string>
+    <string name="ques2ans1">Executive</string>
+    <string name="ques2ans2">Financial</string>
+    <string name="ques2ans3">Legislative</string>
+    <string name="ques2ans4">Judicial</string>
+
+    <!-- question #3 -->
+    <string name="question3">3) Check ALL of the US Presidents</string>
+    <string name="ques3ans1">George Washington</string>
+    <string name="ques3ans2">Zachary Taylor</string>
+    <string name="ques3ans3">Andrew Jackson</string>
+    <string name="ques3ans4">John Jay</string>
+
+    <!-- question #4 -->
+    <string name="question4">4) What is the capital of the United States?</string>
+    <string name="ques4hint">Enter your answer here.</string>
+
+</resources>
